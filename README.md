@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Dev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on OpenSource Projects
-- 📫 How to reach me ...
+- 📫 Reach me at ashikmoosa96@gmail.com
 
 <!---
 ashton98/ashton98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
