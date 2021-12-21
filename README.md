@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ash
 - 👀 I’m interested in FrontEnd Dev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning & developing application with React
 - 💞️ I’m looking to collaborate on OpenSource Projects
 - 📫 Reach me at ashikmoosa96@gmail.com
 
